@@ -1,0 +1,22 @@
+$color: #212529;
+
+.ctable {
+	max-width: 720px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    margin-bottom: 1rem;
+    color: $color;
+}
+
+table {
+	border-collapse: collapse;
+	border: 1px solid #dee2e6;
+	td, th {
+		padding: 15px;
+	}
+}
+
+p {
+	font-size: 105%;
+}
